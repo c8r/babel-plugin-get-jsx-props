@@ -1,6 +1,6 @@
 {
   "name": "@compositor/babel-plugin-get-jsx-props",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get jsx data props",
   "main": "src/index.js",
   "repo": "c8r/babel-plugin-data-props",
