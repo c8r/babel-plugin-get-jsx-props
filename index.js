@@ -8,8 +8,6 @@ module.exports = ({ types }) => ({
       const metadata = state.file.metadata
       const arr = metadata[KEY] = metadata[KEY] || []
 
-      debugger
-
       const attrs = path.node.openingElement.attributes.map(e => {
         const prop = get(e, 'name.name')
         const valueNode = e.value
