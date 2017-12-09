@@ -23,3 +23,11 @@ const { metadata } = babel.transform(jsx, {
 ## Prior art and references
 
 * https://github.com/avajs/babel-plugin-ava-test-data
+
+## Related
+
+* https://github.com/c8r/get-jsx-props
+
+[Made by Compositor](https://compositor.io)
+|
+[MIT License](LICENSE.md)
